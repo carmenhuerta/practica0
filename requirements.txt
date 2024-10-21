@@ -1,0 +1,13 @@
+Bottleneck
+mkl-service==2.4.0
+mkl_fft
+mkl_random
+numexpr
+numpy==1.26.4
+pandas==2.2.2
+python-dateutil
+pytz
+setuptools==75.1.0
+six
+tzdata
+wheel==0.44.0
